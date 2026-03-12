@@ -1,6 +1,6 @@
 # symphony-demo
 
-Toy Express API for Symphony + Wave end-to-end demo.
+Toy Express API for Symphony + ...
 
 ## Setup
 
